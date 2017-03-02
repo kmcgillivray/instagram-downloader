@@ -1,6 +1,6 @@
 # Instagram Downloader
 
-This script takes a list of Instagram URLs and downloads the image.
+This script takes a list of Instagram URLs and downloads the images.
 
 ## Getting started
 
